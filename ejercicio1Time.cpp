@@ -1,3 +1,21 @@
+/******************************************************************************
+ * Universidad del Valle de Guatemala
+ * 18 Avenida 11-95, Zona 15 Guatemala
+ * Facultad de Ingeniería
+ * Departamento de Computación
+ *
+ * Laboratorio #2
+ *
+ * Integrantes:
+ * Diego Alexander Hernández Silvestre, 21270
+ * Linda Inés Jiménez Vides, 21169
+ *
+ * Curso: Computación Paralela y Distribuida
+ * Sección: 10
+ *
+ * Guatemala, 1 de septiembre de 2024
+ ******************************************************************************/
+
 #include <iostream>
 #include <fstream>
 #include <sstream>

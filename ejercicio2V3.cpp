@@ -10,7 +10,7 @@
  * Diego Alexander Hernández Silvestre, 21270
  * Linda Inés Jiménez Vides, 21169
  *
- * Curso: Data Science
+ * Curso: Computación Paralela y Distribuida
  * Sección: 10
  *
  * Guatemala, 1 de septiembre de 2024
